@@ -1,0 +1,1 @@
+Hello,  this is Med Daddy, a work in progress app for test prep for the PCP course.     all question banks are generated based on all availabkle slides, moodle tests and exam review.   please feel free to give any feedback you may have so that we can make this a more valuable study tool going forward 
